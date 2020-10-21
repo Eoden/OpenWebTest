@@ -1,0 +1,14 @@
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/OpenWebServices.csprojAssemblyReference.cache
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/OpenWebServices.AssemblyInfoInputs.cache
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/OpenWebServices.AssemblyInfo.cs
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/OpenWebServices.csproj.CoreCompileInputs.cache
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/bin/Debug/netcoreapp3.1/OpenWebServices.deps.json
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/bin/Debug/netcoreapp3.1/OpenWebServices.dll
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/bin/Debug/netcoreapp3.1/OpenWebServices.pdb
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/bin/Debug/netcoreapp3.1/OpenWebApiContract.dll
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/bin/Debug/netcoreapp3.1/OpenWebData.dll
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/bin/Debug/netcoreapp3.1/OpenWebApiContract.pdb
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/bin/Debug/netcoreapp3.1/OpenWebData.pdb
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/OpenWebServices.csproj.CopyComplete
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/OpenWebServices.dll
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/OpenWebServices.pdb

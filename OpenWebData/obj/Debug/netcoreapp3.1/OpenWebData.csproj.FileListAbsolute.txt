@@ -1,0 +1,9 @@
+/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.csprojAssemblyReference.cache
+/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.AssemblyInfoInputs.cache
+/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.AssemblyInfo.cs
+/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.csproj.CoreCompileInputs.cache
+/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/bin/Debug/netcoreapp3.1/OpenWebData.deps.json
+/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/bin/Debug/netcoreapp3.1/OpenWebData.dll
+/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/bin/Debug/netcoreapp3.1/OpenWebData.pdb
+/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.dll
+/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.pdb

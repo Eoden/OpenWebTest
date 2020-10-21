@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RestServices</name>
+    </assembly>
+    <members>
+        <member name="M:RestServices.Controllers.ContactController.GetAllContacts">
+            <summary>
+                Get all contacts
+            </summary>
+            <returns>Returns a list of all contacts in database</returns>
+            <response code="200">Returned if there is at lease 1 contact in database</response>
+            <response code="400">Returned if the contact could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.ContactController.Get(System.Int32)">
+            <summary>
+                Get a contact by id
+            </summary>
+            <returns>Returns a contanct depending on the id</returns>
+            <response code="200">Returned if the contact is found in database</response>
+            <response code="400">Returned if the contact could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.ContactController.PostAsync(OpenWebApiContract.Communication.Contact.CreateContactRequestV1)">
+            <summary>
+                Create a contact
+            </summary>
+            <returns>Create a contact. (the id is autoIncrement)</returns>
+            <response code="200">Returned if the contact have been corectly created</response>
+            <response code="400">Returned if the contact could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.ContactController.Put(System.Int32,OpenWebApiContract.Communication.Contact.UpdateContactRequestV1)">
+            <summary>
+                Update a contact
+            </summary>
+            <returns>Update one contact depending on the id. Waring ! the id and the id inside the body have to be se same !</returns>
+            <response code="200">Returned if the contact have been corectly updated</response>
+            <response code="400">Returned if the contact could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.ContactController.Delete(System.Int32)">
+            <summary>
+                Delete a contact
+            </summary>
+            <returns>Delete one contact depending on the id.</returns>
+            <response code="200">Returned if the contact have been corectly Deleted</response>
+            <response code="400">Returned if the contact could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.LinkContactSkillController.GetAllLink">
+            <summary>
+                Get all links
+            </summary>
+            <returns>Returns a list of all links in database</returns>
+            <response code="200">Returned if there is at lease 1 link in database</response>
+            <response code="400">Returned if the link could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.LinkContactSkillController.PostAsync(OpenWebApiContract.Communication.LinkContactSkill.CreateLinkContactSkillRequestV1)">
+            <summary>
+                Create a Link
+            </summary>
+            <returns>Create a link. (the id is autoIncrement)</returns>
+            <response code="200">Returned if the link have been corectly created</response>
+            <response code="400">Returned if the link could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.LinkContactSkillController.Delete(System.Int32)">
+            <summary>
+                Delete a link
+            </summary>
+            <returns>Delete one link depending on the id.</returns>
+            <response code="200">Returned if the link have been corectly Deleted</response>
+            <response code="400">Returned if the link could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.SkillController.GetAllSkills">
+            <summary>
+                Get all skills
+            </summary>
+            <returns>Returns a list of all skills in database</returns>
+            <response code="200">Returned if there is at lease 1 skill in database</response>
+            <response code="400">Returned if the skill could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.SkillController.Get(System.Int32)">
+            <summary>
+                Get a skill by id
+            </summary>
+            <returns>Returns a skill depending on the id</returns>
+            <response code="200">Returned if the skill is found in database</response>
+            <response code="400">Returned if the skill could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.SkillController.PostAsync(OpenWebApiContract.Communication.Skill.CreateSkillRequestV1)">
+            <summary>
+                Create a skill
+            </summary>
+            <returns>Create a skill. (the id is autoIncrement)</returns>
+            <response code="200">Returned if the skill have been corectly created</response>
+            <response code="400">Returned if the skill could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.SkillController.Put(System.Int32,OpenWebApiContract.Communication.Skill.UpdateSkillRequestV1)">
+            <summary>
+                Update a skill
+            </summary>
+            <returns>Update one skill depending on the id. Warning ! the id and the id inside the body have to be se same !</returns>
+            <response code="200">Returned if the skill have been corectly updated</response>
+            <response code="400">Returned if the skill could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.SkillController.Delete(System.Int32)">
+            <summary>
+                Delete a skill
+            </summary>
+            <returns>Delete one skill depending on the id.</returns>
+            <response code="200">Returned if the skill have been corectly Deleted</response>
+            <response code="400">Returned if the skill could not be retrieved</response>
+            <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+    </members>
+</doc>

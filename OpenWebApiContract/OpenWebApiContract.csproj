@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Communication\" />
+    <Folder Include="Classes\" />
+    <Folder Include="Communication\Contact\" />
+    <Folder Include="Communication\Skill\" />
+    <Folder Include="Communication\LinkContactSkill\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/ReadServices.csprojAssemblyReference.cache
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/ReadServices.AssemblyInfoInputs.cache
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/ReadServices.AssemblyInfo.cs
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/ReadServices.csproj.CoreCompileInputs.cache
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/bin/Debug/netcoreapp3.1/ReadServices.deps.json
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/bin/Debug/netcoreapp3.1/ReadServices.dll
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/bin/Debug/netcoreapp3.1/ReadServices.pdb
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/ReadServices.dll
+/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/Debug/netcoreapp3.1/ReadServices.pdb

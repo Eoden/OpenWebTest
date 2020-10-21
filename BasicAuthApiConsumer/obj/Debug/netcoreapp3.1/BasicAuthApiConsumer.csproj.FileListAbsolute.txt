@@ -1,0 +1,12 @@
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/bin/Debug/netcoreapp3.1/BasicAuthApiConsumer.deps.json
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/bin/Debug/netcoreapp3.1/BasicAuthApiConsumer.runtimeconfig.json
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/bin/Debug/netcoreapp3.1/BasicAuthApiConsumer.runtimeconfig.dev.json
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/bin/Debug/netcoreapp3.1/BasicAuthApiConsumer.dll
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/bin/Debug/netcoreapp3.1/BasicAuthApiConsumer.pdb
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/obj/Debug/netcoreapp3.1/BasicAuthApiConsumer.csprojAssemblyReference.cache
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/obj/Debug/netcoreapp3.1/BasicAuthApiConsumer.AssemblyInfoInputs.cache
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/obj/Debug/netcoreapp3.1/BasicAuthApiConsumer.AssemblyInfo.cs
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/obj/Debug/netcoreapp3.1/BasicAuthApiConsumer.csproj.CoreCompileInputs.cache
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/obj/Debug/netcoreapp3.1/BasicAuthApiConsumer.dll
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/obj/Debug/netcoreapp3.1/BasicAuthApiConsumer.pdb
+/Users/arthurpicaud/Projects/OpenWebTest/BasicAuthApiConsumer/obj/Debug/netcoreapp3.1/BasicAuthApiConsumer.genruntimeconfig.cache
