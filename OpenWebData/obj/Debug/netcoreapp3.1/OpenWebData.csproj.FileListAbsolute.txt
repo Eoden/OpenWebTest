@@ -7,3 +7,12 @@
 /Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/bin/Debug/netcoreapp3.1/OpenWebData.pdb
 /Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.dll
 /Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.pdb
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/bin/Debug/netcoreapp3.1/OpenWebData.deps.json
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/bin/Debug/netcoreapp3.1/OpenWebData.dll
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/bin/Debug/netcoreapp3.1/OpenWebData.pdb
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.csprojAssemblyReference.cache
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.AssemblyInfoInputs.cache
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.AssemblyInfo.cs
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.csproj.CoreCompileInputs.cache
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.dll
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/obj/Debug/netcoreapp3.1/OpenWebData.pdb

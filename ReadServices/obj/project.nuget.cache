@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gxtjwfbqqRRUFV5kyoG3iE8P5s+oOljM/iDyELPxaO2LpNbTQ/9lEBFtugzneYjVrgk9u05RxnNI5NWgt34i/g==",
+  "dgSpecHash": "rjovTI2348G5p4osCwbeGW8QHHBres23dPotzcof3lEwtFRYEOSk76ubCxNqa/vzbuAFtcXAJ6odGBlDqry5sQ==",
   "success": true,
-  "projectFilePath": "/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/OpenWebServices.csproj",
+  "projectFilePath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/ReadServices/OpenWebServices.csproj",
   "expectedPackageFiles": [
     "/Users/arthurpicaud/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/arthurpicaud/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",

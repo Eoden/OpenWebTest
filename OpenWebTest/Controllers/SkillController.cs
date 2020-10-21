@@ -11,6 +11,9 @@ using RestServices.BasicAuth;
 
 namespace RestServices.Controllers
 {
+    ///<Summary>
+    /// Entry Point of Skill API
+    ///</Summary>
     [Route("api/[controller]")]
     [ApiController]
     public class SkillController : ControllerBase
@@ -18,6 +21,9 @@ namespace RestServices.Controllers
         private readonly IMediator _mediator;
         private readonly IMapper _mapper;
 
+        ///<Summary>
+        /// Constructor of Skill API
+        ///</Summary>
         public SkillController(IMediator mediator, IMapper mapper)
         {
             _mediator = mediator;
@@ -157,7 +163,9 @@ namespace RestServices.Controllers
                 return BadRequest(ex.Message);
             }
         }
-
+        ///<Summary>
+        /// Fake Method to logout
+        ///</Summary>
         [HttpGet("basic-logout")]
         [BasicAuth]
         [ApiExplorerSettings(IgnoreApi = true)]

@@ -11,6 +11,9 @@ using RestServices.BasicAuth;
 
 namespace RestServices.Controllers
 {
+    ///<Summary>
+    /// Entry point of the Link API
+    ///</Summary>
     [Route("api/[controller]")]
     [ApiController]
     public class LinkContactSkillController : ControllerBase
@@ -18,6 +21,9 @@ namespace RestServices.Controllers
         private readonly IMediator _mediator;
         private readonly IMapper _mapper;
 
+        ///<Summary>
+        /// Constructor of the Link API
+        ///</Summary>
         public LinkContactSkillController(IMediator mediator, IMapper mapper)
         {
             _mediator = mediator;
@@ -101,7 +107,9 @@ namespace RestServices.Controllers
                 return BadRequest(ex.Message);
             }
         }
-
+        ///<Summary>
+        /// Fake Method to Logout
+        ///</Summary>
         [HttpGet("basic-logout")]
         [BasicAuth]
         [ApiExplorerSettings(IgnoreApi = true)]

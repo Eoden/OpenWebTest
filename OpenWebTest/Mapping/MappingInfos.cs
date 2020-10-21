@@ -9,8 +9,14 @@ using OpenWebApiContract.Communication.LinkContactSkill;
 
 namespace RestServices.Mapping
 {
+    ///<Summary>
+    /// Class who Map the differents objects
+    ///</Summary>
     public class MappingInfos : Profile
     {
+        ///<Summary>
+        /// Class who Map the differents objects
+        ///</Summary>
         public MappingInfos()
         {
             CreateMap<ContactV1, Contact>();

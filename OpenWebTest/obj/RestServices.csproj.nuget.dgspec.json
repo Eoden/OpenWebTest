@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebTest/RestServices.csproj": {}
+    "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebTest/RestServices.csproj": {}
   },
   "projects": {
-    "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/OpenWebApiContract.csproj": {
+    "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/OpenWebApiContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/OpenWebApiContract.csproj",
+        "projectUniqueName": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/OpenWebApiContract.csproj",
         "projectName": "OpenWebApiContract",
-        "projectPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/OpenWebApiContract.csproj",
+        "projectPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/OpenWebApiContract.csproj",
         "packagesPath": "/Users/arthurpicaud/.nuget/packages/",
-        "outputPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/obj/",
+        "outputPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arthurpicaud/.config/NuGet/NuGet.Config"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/OpenWebData.csproj": {
+    "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/OpenWebData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/OpenWebData.csproj",
+        "projectUniqueName": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/OpenWebData.csproj",
         "projectName": "OpenWebData",
-        "projectPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/OpenWebData.csproj",
+        "projectPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/OpenWebData.csproj",
         "packagesPath": "/Users/arthurpicaud/.nuget/packages/",
-        "outputPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/obj/",
+        "outputPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arthurpicaud/.config/NuGet/NuGet.Config"
@@ -124,14 +124,14 @@
         }
       }
     },
-    "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebTest/RestServices.csproj": {
+    "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebTest/RestServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebTest/RestServices.csproj",
+        "projectUniqueName": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebTest/RestServices.csproj",
         "projectName": "RestServices",
-        "projectPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebTest/RestServices.csproj",
+        "projectPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebTest/RestServices.csproj",
         "packagesPath": "/Users/arthurpicaud/.nuget/packages/",
-        "outputPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebTest/obj/",
+        "outputPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arthurpicaud/.config/NuGet/NuGet.Config"
@@ -145,11 +145,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/OpenWebApiContract.csproj": {
-                "projectPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/OpenWebApiContract.csproj"
+              "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/OpenWebApiContract.csproj": {
+                "projectPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/OpenWebApiContract.csproj"
               },
-              "/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/OpenWebServices.csproj": {
-                "projectPath": "/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/OpenWebServices.csproj"
+              "/Users/arthurpicaud/Downloads/OpenWebTest-master/ReadServices/OpenWebServices.csproj": {
+                "projectPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/ReadServices/OpenWebServices.csproj"
               }
             }
           }
@@ -214,14 +214,14 @@
         }
       }
     },
-    "/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/OpenWebServices.csproj": {
+    "/Users/arthurpicaud/Downloads/OpenWebTest-master/ReadServices/OpenWebServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/OpenWebServices.csproj",
+        "projectUniqueName": "/Users/arthurpicaud/Downloads/OpenWebTest-master/ReadServices/OpenWebServices.csproj",
         "projectName": "OpenWebServices",
-        "projectPath": "/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/OpenWebServices.csproj",
+        "projectPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/ReadServices/OpenWebServices.csproj",
         "packagesPath": "/Users/arthurpicaud/.nuget/packages/",
-        "outputPath": "/Users/arthurpicaud/Projects/OpenWebTest/ReadServices/obj/",
+        "outputPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/ReadServices/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arthurpicaud/.config/NuGet/NuGet.Config"
@@ -235,11 +235,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/OpenWebApiContract.csproj": {
-                "projectPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/OpenWebApiContract.csproj"
+              "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/OpenWebApiContract.csproj": {
+                "projectPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/OpenWebApiContract.csproj"
               },
-              "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/OpenWebData.csproj": {
-                "projectPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/OpenWebData.csproj"
+              "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/OpenWebData.csproj": {
+                "projectPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/OpenWebData.csproj"
               }
             }
           }

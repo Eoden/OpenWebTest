@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/OpenWebApiContract.csproj",
+      "projectUniqueName": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/OpenWebApiContract.csproj",
       "projectName": "OpenWebApiContract",
-      "projectPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/OpenWebApiContract.csproj",
+      "projectPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/OpenWebApiContract.csproj",
       "packagesPath": "/Users/arthurpicaud/.nuget/packages/",
-      "outputPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/obj/",
+      "outputPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/arthurpicaud/.config/NuGet/NuGet.Config"

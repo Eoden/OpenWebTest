@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TcTWr8wH0YlORkGyqrbWGAuWFR5gRvyc2RQRPrhDP6IZoKfvzTQX/+hC3l95H1b/ZGqwrg2XafSkCOOmL7ztSA==",
+  "dgSpecHash": "HwmI1iHdf5uiBuRNxLGY98pJgBRKdjz1fdWWm/Si95ltFjJJ3LpIPUfFpwv1plI8OFqe1qen/6VBYVECsgdv7g==",
   "success": true,
-  "projectFilePath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebTest/RestServices.csproj",
+  "projectFilePath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebTest/RestServices.csproj",
   "expectedPackageFiles": [
     "/Users/arthurpicaud/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/arthurpicaud/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.0/automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

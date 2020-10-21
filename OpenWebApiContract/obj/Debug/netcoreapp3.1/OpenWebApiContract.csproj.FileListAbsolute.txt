@@ -7,3 +7,12 @@
 /Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/obj/Debug/netcoreapp3.1/OpenWebApiContract.csproj.CoreCompileInputs.cache
 /Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/obj/Debug/netcoreapp3.1/OpenWebApiContract.dll
 /Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/obj/Debug/netcoreapp3.1/OpenWebApiContract.pdb
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/bin/Debug/netcoreapp3.1/OpenWebApiContract.deps.json
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/bin/Debug/netcoreapp3.1/OpenWebApiContract.dll
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/bin/Debug/netcoreapp3.1/OpenWebApiContract.pdb
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/obj/Debug/netcoreapp3.1/OpenWebApiContract.csprojAssemblyReference.cache
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/obj/Debug/netcoreapp3.1/OpenWebApiContract.AssemblyInfoInputs.cache
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/obj/Debug/netcoreapp3.1/OpenWebApiContract.AssemblyInfo.cs
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/obj/Debug/netcoreapp3.1/OpenWebApiContract.csproj.CoreCompileInputs.cache
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/obj/Debug/netcoreapp3.1/OpenWebApiContract.dll
+/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/obj/Debug/netcoreapp3.1/OpenWebApiContract.pdb

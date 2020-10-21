@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AbUmrZ4uBtrJHl0/4xby4GeELP+F0JxGJYX4qB8B1DMD50eUwkT+O19YVazVx6lTs7Ci7cygnvSh0tMQAfcp0A==",
+  "dgSpecHash": "hogjb9FZ6nZvEcqjH7BdyyYgSnYBdP9O/DbE5GsVCRpE+3h6lZnzwoIox3LwkCOE7yPDWhHBHEPTJQmq08XV/g==",
   "success": true,
-  "projectFilePath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/OpenWebData.csproj",
+  "projectFilePath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/OpenWebData.csproj",
   "expectedPackageFiles": [
     "/Users/arthurpicaud/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/arthurpicaud/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

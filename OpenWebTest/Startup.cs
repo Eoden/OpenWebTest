@@ -25,16 +25,26 @@ using RestServices.BasicAuth.Services;
 
 namespace OpenWebTest
 {
+    ///<Summary>
+    /// Class where the configuration of the app is done
+    ///</Summary>
     public class Startup
     {
+        ///<Summary>
+        /// Constructor of the Startup
+        ///</Summary>
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
-
+        ///<Summary>
+        /// Getter of Configuration
+        ///</Summary>
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
+        ///<Summary>
+        /// This method gets called by the runtime. Use this method to add services to the container.
+        ///</Summary>
         public void ConfigureServices(IServiceCollection services)
         {
 
@@ -135,8 +145,9 @@ namespace OpenWebTest
             services.AddTransient<IRequestHandler<DeleteLinkContactSkillRequestV1, LinkContactSkillV1>, DeleteLinkContactSkillCommandHandler>();
 
         }
-
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        ///<Summary>
+        /// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        ///</Summary>
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())

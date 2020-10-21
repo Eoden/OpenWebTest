@@ -26,9 +26,6 @@
 
   <ItemGroup>
     <Folder Include="Controller\" />
-    <Folder Include="Fixture\" />
-    <Folder Include="Mock\" />
-    <Folder Include="Theory\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OpenWebData\OpenWebData.csproj" />

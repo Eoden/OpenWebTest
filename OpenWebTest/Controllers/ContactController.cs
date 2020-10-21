@@ -11,13 +11,18 @@ using RestServices.BasicAuth;
 
 namespace RestServices.Controllers
 {
+    ///<Summary>
+    /// Entry Point of the Rest Service
+    ///</Summary>
     [Route("api/[controller]")]
     [ApiController]
     public class ContactController : ControllerBase
     {
         private readonly IMediator _mediator;
 
-
+        ///<Summary>
+        /// Constructor of the Contact API
+        ///</Summary>
         public ContactController(IMediator mediator)
         {
             _mediator = mediator;
@@ -156,7 +161,9 @@ namespace RestServices.Controllers
                 return BadRequest(ex.Message);
             }
         }
-
+        ///<Summary>
+        /// Fake methode to logout
+        ///</Summary>
         [HttpGet("basic-logout")]
         [BasicAuth]
         [ApiExplorerSettings(IgnoreApi = true)]

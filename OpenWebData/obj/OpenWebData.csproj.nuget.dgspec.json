@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/OpenWebData.csproj": {}
+    "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/OpenWebData.csproj": {}
   },
   "projects": {
-    "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/OpenWebData.csproj": {
+    "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/OpenWebData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/OpenWebData.csproj",
+        "projectUniqueName": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/OpenWebData.csproj",
         "projectName": "OpenWebData",
-        "projectPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/OpenWebData.csproj",
+        "projectPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/OpenWebData.csproj",
         "packagesPath": "/Users/arthurpicaud/.nuget/packages/",
-        "outputPath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebData/obj/",
+        "outputPath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebData/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arthurpicaud/.config/NuGet/NuGet.Config"

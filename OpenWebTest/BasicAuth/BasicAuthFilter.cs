@@ -9,10 +9,15 @@ using RestServices.BasicAuth.Services;
 
 namespace RestServices.BasicAuth
 {
+    ///<Summary>
+    /// Class where the Authent tests are done
+    ///</Summary>
     public class BasicAuthFilter : IAuthorizationFilter
     {
         private readonly string _realm;
-
+        ///<Summary>
+        /// Constructor of Authent checking
+        ///</Summary>
         public BasicAuthFilter(string realm)
         {
             _realm = realm;
@@ -21,6 +26,9 @@ namespace RestServices.BasicAuth
                 throw new ArgumentNullException(nameof(realm), @"Please provide a non-empty realm value.");
             }
         }
+        ///<Summary>
+        /// Check on the "Authorization" Header
+        ///</Summary>
         public void OnAuthorization(AuthorizationFilterContext context)
         {
             try
@@ -53,6 +61,9 @@ namespace RestServices.BasicAuth
             }
         }
 
+        ///<Summary>
+        /// Check if the user is log
+        ///</Summary>
         public bool IsAuthorized(AuthorizationFilterContext context, string username, string password)
         {
             var userService = context.HttpContext.RequestServices.GetRequiredService<IUserService>();

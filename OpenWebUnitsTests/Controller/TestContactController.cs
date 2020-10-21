@@ -6,19 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using OpenWebApiContract.Classes;
 using FluentAssertions;
 using OpenWebApiContract.Communication.Contact;
-using OpenWebData.Data.Contact;
 using RestServices.Controllers;
 using Xunit;
 using System.Net.Http;
 using Microsoft.AspNetCore.TestHost;
-using OpenWebUnitsTests.Fixture;
 using RestServices.Mapping;
-using Moq;
-using OpenWebServices.v1.Command;
-using System.Threading;
-using System.Threading.Tasks;
-using System.Collections.Generic;
-using OpenWebServices.v1.Query;
 using System;
 
 namespace OpenWebUnitsTests.Controller

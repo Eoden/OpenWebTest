@@ -4,6 +4,66 @@
         <name>RestServices</name>
     </assembly>
     <members>
+        <member name="T:RestServices.BasicAuth.BasicAuthAttribute">
+            <Summary>
+             Class for Authentication attributes
+            </Summary>
+        </member>
+        <member name="M:RestServices.BasicAuth.BasicAuthAttribute.#ctor(System.String)">
+            <Summary>
+             Constructor of the Authent attribut
+            </Summary>
+        </member>
+        <member name="T:RestServices.BasicAuth.BasicAuthFilter">
+            <Summary>
+             Class where the Authent tests are done
+            </Summary>
+        </member>
+        <member name="M:RestServices.BasicAuth.BasicAuthFilter.#ctor(System.String)">
+            <Summary>
+             Constructor of Authent checking
+            </Summary>
+        </member>
+        <member name="M:RestServices.BasicAuth.BasicAuthFilter.OnAuthorization(Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext)">
+            <Summary>
+             Check on the "Authorization" Header
+            </Summary>
+        </member>
+        <member name="M:RestServices.BasicAuth.BasicAuthFilter.IsAuthorized(Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext,System.String,System.String)">
+            <Summary>
+             Check if the user is log
+            </Summary>
+        </member>
+        <member name="T:RestServices.BasicAuth.Services.IUserService">
+            <Summary>
+             User Interface for the basic authent
+            </Summary>
+        </member>
+        <member name="T:RestServices.BasicAuth.Services.UserService">
+            <Summary>
+             User Class for the basic authent
+            </Summary>
+        </member>
+        <member name="M:RestServices.BasicAuth.Services.UserService.#ctor(Microsoft.Extensions.Logging.ILogger{RestServices.BasicAuth.Services.UserService})">
+            <Summary>
+             Constructor of UserService
+            </Summary>
+        </member>
+        <member name="M:RestServices.BasicAuth.Services.UserService.IsValidUser(System.String,System.String)">
+            <Summary>
+             Method who validate the user connected
+            </Summary>
+        </member>
+        <member name="T:RestServices.Controllers.ContactController">
+            <Summary>
+             Entry Point of the Rest Service
+            </Summary>
+        </member>
+        <member name="M:RestServices.Controllers.ContactController.#ctor(MediatR.IMediator)">
+            <Summary>
+             Constructor of the Contact API
+            </Summary>
+        </member>
         <member name="M:RestServices.Controllers.ContactController.GetAllContacts">
             <summary>
                 Get all contacts
@@ -49,6 +109,21 @@
             <response code="400">Returned if the contact could not be retrieved</response>
             <response code="401">You need to be log (you can use the login and password you want)</response>
         </member>
+        <member name="M:RestServices.Controllers.ContactController.BasicAuthLogout">
+            <Summary>
+             Fake methode to logout
+            </Summary>
+        </member>
+        <member name="T:RestServices.Controllers.LinkContactSkillController">
+            <Summary>
+             Entry point of the Link API
+            </Summary>
+        </member>
+        <member name="M:RestServices.Controllers.LinkContactSkillController.#ctor(MediatR.IMediator,AutoMapper.IMapper)">
+            <Summary>
+             Constructor of the Link API
+            </Summary>
+        </member>
         <member name="M:RestServices.Controllers.LinkContactSkillController.GetAllLink">
             <summary>
                 Get all links
@@ -75,6 +150,21 @@
             <response code="200">Returned if the link have been corectly Deleted</response>
             <response code="400">Returned if the link could not be retrieved</response>
             <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.LinkContactSkillController.BasicAuthLogout">
+            <Summary>
+             Fake Method to Logout
+            </Summary>
+        </member>
+        <member name="T:RestServices.Controllers.SkillController">
+            <Summary>
+             Entry Point of Skill API
+            </Summary>
+        </member>
+        <member name="M:RestServices.Controllers.SkillController.#ctor(MediatR.IMediator,AutoMapper.IMapper)">
+            <Summary>
+             Constructor of Skill API
+            </Summary>
         </member>
         <member name="M:RestServices.Controllers.SkillController.GetAllSkills">
             <summary>
@@ -120,6 +210,61 @@
             <response code="200">Returned if the skill have been corectly Deleted</response>
             <response code="400">Returned if the skill could not be retrieved</response>
             <response code="401">You need to be log (you can use the login and password you want)</response>
+        </member>
+        <member name="M:RestServices.Controllers.SkillController.BasicAuthLogout">
+            <Summary>
+             Fake Method to logout
+            </Summary>
+        </member>
+        <member name="T:RestServices.Mapping.MappingInfos">
+            <Summary>
+             Class who Map the differents objects
+            </Summary>
+        </member>
+        <member name="M:RestServices.Mapping.MappingInfos.#ctor">
+            <Summary>
+             Class who Map the differents objects
+            </Summary>
+        </member>
+        <member name="T:OpenWebTest.Program">
+            <Summary>
+             First class called in the app
+            </Summary>
+        </member>
+        <member name="M:OpenWebTest.Program.Main(System.String[])">
+            <Summary>
+             First method 
+            </Summary>
+        </member>
+        <member name="M:OpenWebTest.Program.CreateHostBuilder(System.String[])">
+            <Summary>
+             Host Builder
+            </Summary>
+        </member>
+        <member name="T:OpenWebTest.Startup">
+            <Summary>
+             Class where the configuration of the app is done
+            </Summary>
+        </member>
+        <member name="M:OpenWebTest.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <Summary>
+             Constructor of the Startup
+            </Summary>
+        </member>
+        <member name="P:OpenWebTest.Startup.Configuration">
+            <Summary>
+             Getter of Configuration
+            </Summary>
+        </member>
+        <member name="M:OpenWebTest.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <Summary>
+             This method gets called by the runtime. Use this method to add services to the container.
+            </Summary>
+        </member>
+        <member name="M:OpenWebTest.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <Summary>
+             This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </Summary>
         </member>
     </members>
 </doc>

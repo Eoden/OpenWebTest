@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jNt6Kazqj27clp9R6PGuthYF4Bn2wb7WOk7KEvoSdiN4iMi4lVDdbTAnyE4cNa9SnVFldgKLob28Wfx1o6eAaA==",
+  "dgSpecHash": "ZAt8WSJKSWDcvhhb9fmz7Epg+/z/gim//BiGxz8VGrmgI3nKKTXxEZjgxTni9LJRYk9QDLD3pOzmsb068kYjBQ==",
   "success": true,
-  "projectFilePath": "/Users/arthurpicaud/Projects/OpenWebTest/OpenWebApiContract/OpenWebApiContract.csproj",
+  "projectFilePath": "/Users/arthurpicaud/Downloads/OpenWebTest-master/OpenWebApiContract/OpenWebApiContract.csproj",
   "expectedPackageFiles": [
     "/Users/arthurpicaud/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
   ],
